@@ -1,6 +1,6 @@
 {
-	"name": "vscode-sonic-pi",
-	"displayName": "Sonic Pi",
+	"name": "sonic-pi",
+	"displayName": "Sonic Pi Extension",
 	"publisher": "s00500",
 	"description": "Language support and code running for Sonic Pi scripts",
 	"preview": true,
