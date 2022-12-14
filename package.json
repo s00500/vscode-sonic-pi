@@ -1,5 +1,5 @@
 {
-	"name": "sonic-pi",
+	"name": "sonic-pi-extension",
 	"displayName": "Sonic Pi Extension",
 	"publisher": "s00500",
 	"description": "Language support and code running for Sonic Pi scripts",
