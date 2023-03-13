@@ -108,6 +108,11 @@ export class Main {
 		console.log('Using ruby: ' + this.rubyPath)
 
 		this.daemonLauncherPath = this.rootPath + '/server/ruby/bin/daemon.rb'
+
+		if (this.platform === 'win32') {
+			this.daemonLauncherPath = this.rootPath + '/app/server/ruby/bin/daemon.rb'
+		}
+
 		this.spUserPath = this.sonicPiHomePath() + '/.sonic-pi'
 		this.daemonLogPath = this.spUserPath + '/log/daemon.log'
 
