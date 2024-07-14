@@ -12,7 +12,7 @@ Largely based on the previous works of
 Jackson Kearl (https://github.com/JacksonKearl/vscode-sonic-pi) and
 Luis Lloret via (https://github.com/llloret/sonic-pi-vscode-editor)
 
-Sonic Pi Tutorial content copyright Scott Aaron.
+Sonic Pi Tutorial content copyright Sam Aaron.
 
 Adapted by s00500 to support SonicPi v4 and up.
 
